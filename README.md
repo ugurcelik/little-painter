@@ -1,6 +1,6 @@
-# Little Painter Website
+# Mini Painter Website
 
-Upload the contents of this folder to the root of the GitHub repository named `little-painter`.
+Upload the contents of this folder to the root of the GitHub repository named `mini-painter`.
 
 Required files and folders:
 
@@ -13,7 +13,7 @@ Required files and folders:
 
 App Store Connect URLs:
 
-- Marketing URL: `https://ugurcelik.github.io/little-painter/`
-- Privacy Policy URL: `https://ugurcelik.github.io/little-painter/privacy-policy/`
-- Support URL: `https://ugurcelik.github.io/little-painter/support/`
-- Terms URL: `https://ugurcelik.github.io/little-painter/terms/`
+- Marketing URL: `https://ugurcelik.github.io/mini-painter/`
+- Privacy Policy URL: `https://ugurcelik.github.io/mini-painter/privacy-policy/`
+- Support URL: `https://ugurcelik.github.io/mini-painter/support/`
+- Terms URL: `https://ugurcelik.github.io/mini-painter/terms/`
