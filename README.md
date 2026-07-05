@@ -11,9 +11,11 @@ Required files and folders:
 - `support/`
 - `terms/`
 
-App Store Connect URLs:
+Store review URLs:
 
 - Marketing URL: `https://ugurcelik.github.io/mini-painter/`
 - Privacy Policy URL: `https://ugurcelik.github.io/mini-painter/privacy-policy/`
 - Support URL: `https://ugurcelik.github.io/mini-painter/support/`
 - Terms URL: `https://ugurcelik.github.io/mini-painter/terms/`
+
+Use the same URLs for App Store Connect and Google Play Console.
